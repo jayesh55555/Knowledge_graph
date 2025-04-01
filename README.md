@@ -20,8 +20,8 @@ Transform unstructured text into interactive knowledge graphs using cutting-edge
 - OpenAI API key
 
 ```
-git clone https://github.com/yourusername/knowledge-graph-builder.git
-cd knowledge-graph-builder
+git clone https://github.com/jayesh55555/Knowledge_graph.git
+cd knowledge_graph
 pip install -r requirements.txt
 ```
 
