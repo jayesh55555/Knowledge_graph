@@ -62,11 +62,11 @@ create_knowledge_graph(text)
 ## Visualization
 
 ### Einstein & Newton Graph
-![Einstein & Newton Knowledge Graph](graph1.jpg)  
+![Einstein & Newton Knowledge Graph](https://github.com/jayesh55555/Knowledge_graph/blob/main/graph1.png)  
 *Knowledge graph showing relationships between Einstein, Newton and their contributions to physics*
 
 ### Marie Curie Graph
-![Marie Curie Knowledge Graph](graph.jpg)  
+![Marie Curie Knowledge Graph](https://github.com/jayesh55555/Knowledge_graph/blob/main/graph.png)  
 *Knowledge graph visualizing Marie Curie's life, achievements, and scientific contributions*
 
 ## Viewing the Knowledge Graph in Neo4j Browser
