@@ -42,7 +42,10 @@ python knowledge_graph.py
 ## Usage Example
 ### Example 1: Albert Einstein
 ```
-text = """Albert Einstein developed the theory of relativity..."""
+text = """Albert Einstein was a theoretical physicist who developed the theory of relativity. 
+Isaac Newton is famous for his laws of motion and gravity. 
+Einstein and Newton revolutionised the field of physics.
+"""
 create_knowledge_graph(text)
 ```
 
